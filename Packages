@@ -1,0 +1,15 @@
+Package: com.brubiluco.iphotodrive_0.0.1-144_iphoneos-arm.deb
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: BrunoNFL <brubiluco@globo.com>
+Depends: preferenceloader, mobilesubstrate
+Filename: debs//com.brubiluco.iphotodrive_0.0.1-144_iphoneos-arm.deb
+Size: <deb in bytes>
+MD5sum: cc5098b8b033550e44f820ad1047ee2a
+SHA1: fd1a5c1b18f5995d4459c1e0fec64f1562a14de7
+SHA256: bda64273766bf813b45d871f585f9c3bd0d300fbf00ee3052cd7d1bfb2c1c4fd
+Section: Tweaks
+Description: <description>
+Author: BrunoNFL <brubiluco@globo.com>
+Depiction: http://decimation.github.io/Depic/<depicfoldername>/index.html
+Name: iPhotoDrive
