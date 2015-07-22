@@ -1,0 +1,9 @@
+Origin: BrunoNFL’s Repo
+Label: BrunoNFL’s Repo
+Suite: stable
+Version: 1.0
+Codename: BrunoNFL
+Architectures: iphoneos-arm
+Components: main
+Description: BrunoNFL’s Repo
+MD5Sum;
